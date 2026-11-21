@@ -14,17 +14,7 @@ g++ -std=c++17 -Wall -o hello hello.cpp
 ./hello
 ```
 
-## Expected Output
-
-```
-English:  Hello, World
-Spanish:  Hola, mundo
-French:   Bonjour, le monde
-German:   Hallo, Welt
-Greek:    Γειά σου, κόσμε
-Japanese: こんにちは、世界
-Chinese:  你好，世界
-```
+## Output
 
 If the Greek, Japanese, or Chinese lines show `?` or boxes, switch your terminal to UTF-8 and use a font that includes those characters.
 
